@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/breadapp/static/css/main.2090f75f.css",
-    "main.js": "/breadapp/static/js/main.cdca89a9.js",
-    "static/js/453.e028c167.chunk.js": "/breadapp/static/js/453.e028c167.chunk.js",
-    "index.html": "/breadapp/index.html",
-    "main.2090f75f.css.map": "/breadapp/static/css/main.2090f75f.css.map",
-    "main.cdca89a9.js.map": "/breadapp/static/js/main.cdca89a9.js.map",
-    "453.e028c167.chunk.js.map": "/breadapp/static/js/453.e028c167.chunk.js.map"
+    "main.css": "/Bread/static/css/main.2090f75f.css",
+    "main.js": "/Bread/static/js/main.f7485714.js",
+    "static/js/453.e028c167.chunk.js": "/Bread/static/js/453.e028c167.chunk.js",
+    "index.html": "/Bread/index.html",
+    "main.2090f75f.css.map": "/Bread/static/css/main.2090f75f.css.map",
+    "main.f7485714.js.map": "/Bread/static/js/main.f7485714.js.map",
+    "453.e028c167.chunk.js.map": "/Bread/static/js/453.e028c167.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2090f75f.css",
-    "static/js/main.cdca89a9.js"
+    "static/js/main.f7485714.js"
   ]
 }
